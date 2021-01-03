@@ -1,0 +1,52 @@
+﻿#EXTM3U
+#EXTINF:-1,vivid BY_https://iptv8.blogspot.com
+http://188.35.9.12:21131/udp/142d
+#EXTINF:0,Candyman
+http://serv30.vintera.tv:8081/candy/candyman29/playlist.m3u8
+#EXTINF:0,EURO BRAZ
+http://188.35.9.26:9031/udp/117m
+#EXTINF:0,REALITY KING
+http://188.35.9.26:5031/udp/058j
+#EXTINF:-1,xXx BY_https://iptv8.blogspot.com
+http://v2.14mp4.com:80/av-hls/20160713/m102/index.m3u8
+#EXTINF:-1,xXx
+http://v2.14mp4.com:80/av-hls/20160713/m105/index.m3u8
+#EXTINF:-1,xXx
+http://v2.14mp4.com:80/av-hls/20160713/m104/index.m3u8
+#EXTINF:-1,xXx
+http://v2.14mp4.com:80/av-hls/20160713/m106/index.m3u8
+#EXTINF:-1,xXx
+http://v2.14mp4.com:80/av-hls/20160713/m107/index.m3u8
+#EXTINF:-1,VOD 1 BY_https://iptv8.blogspot.com
+http://v2.14mp4.com:80/av-hls/20160713/m116/index.m3u8
+#EXTINF:-1,VOD 2
+http://v2.14mp4.com:80/av-hls/20160713/m117/index.m3u8
+#EXTINF:-1,VOD 3
+http://v2.14mp4.com:80/av-hls/20160713/m118/index.m3u8
+#EXTINF:-1,VOD 4
+http://v2.14mp4.com:80/av-hls/20160713/m119/index.m3u8
+#EXTINF:-1,VOD 5
+http://v2.14mp4.com:80/av-hls/20160713/m120/index.m3u8
+#EXTINF:-1,VOD 6 BY_https://iptv8.blogspot.com
+http://v2.14mp4.com:80/av-hls/20160713/m121/index.m3u8
+#EXTINF:-1,VOD 7
+http://v2.14mp4.com:80/av-hls/20160713/m123/index.m3u8
+#EXTINF:-1,VOD 8
+http://v2.14mp4.com:80/av-hls/20160713/m122/index.m3u8
+#EXTINF:-1,VOD 9
+http://v2.14mp4.com:80/av-hls/20160713/m124/index.m3u8
+#EXTINF:-1,VOD 10 BY_https://iptv8.blogspot.com
+http://v2.14mp4.com:80/av-hls/20160713/m125/index.m3u8
+#EXTINF:-1,VOD 11
+http://v2.14mp4.com:80/av-hls/20160713/m126/index.m3u8
+#EXTINF:-1,VOD 12
+http://v2.14mp4.com:80/av-hls/20160713/m40/index.m3u8
+#EXTINF:-1,VOD 13
+http://v2.14mp4.com:80/av-hls/20160713/m141/index.m3u8
+#EXTINF:-1,VOD 14
+http://v2.14mp4.com:80/av-hls/20160713/m38/index.m3u8
+#EXTINF:-1,VOD 15 BY_https://iptv8.blogspot.com
+http://v2.14mp4.com:80/av-hls/20160713/m39/index.m3u8
+
+
+
